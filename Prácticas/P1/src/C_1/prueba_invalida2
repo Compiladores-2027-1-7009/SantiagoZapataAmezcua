@@ -1,0 +1,2 @@
+float $precio, total#;
+if (total > 100) { total @ 2; }
