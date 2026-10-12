@@ -1,0 +1,9 @@
+int i, n;
+float suma;
+
+i = 0;
+n = 10;
+suma = 0;
+while (n - i)
+  suma = suma + i * 2.5;
+  i = i + 1;
