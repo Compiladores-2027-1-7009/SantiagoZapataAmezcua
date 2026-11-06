@@ -1,0 +1,12 @@
+int i, suma;
+float r;
+
+i = 0;
+suma = 0;
+while (i)
+    suma = suma + i;
+if (suma)
+    r = 1.5;
+    i = i - 1;
+else
+    r = 0;
